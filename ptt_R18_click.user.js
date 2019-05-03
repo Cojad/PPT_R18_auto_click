@@ -1,6 +1,7 @@
 // ==UserScript==
 // @id             ptt_R18_click
 // @name           ptt_R18_click
+// @author         we684123@github, Cojad@github
 // @version        0.12
 // @namespace      https://github.com/tasi788/PPT_R18_auto_click
 // @updateURL      https://raw.githubusercontent.com/Cojad/ptt_R18_auto_click/master/ptt_R18_click.user.js
